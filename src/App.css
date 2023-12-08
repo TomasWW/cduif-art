@@ -202,7 +202,32 @@ a:focus {
   outline: none; /* Elimina el contorno en clic/foco */
 }
 
-
-
-
 @import "~react-image-gallery/styles/css/image-gallery.css";
+
+.Wk-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+.img-WK {
+  max-width: 50%; /* Asegura que la imagen no exceda el ancho del contenedor */
+
+  margin: 10px; /* Aumenta un poco el margen inferior para separar */
+}
+
+.WK {
+  font-family: "Crafty Girls", cursive;
+  font-size: calc(1vh +5);
+}
+
+
+.hrs{
+  font-family: "Crafty Girls", cursive;
+  font-size: calc(1vh + 10);
+  font-weight:bolder;
+}

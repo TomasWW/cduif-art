@@ -3,6 +3,7 @@ import { Home } from "./Components/Home.jsx";
 import { Gallery } from "./Components/Gallery";
 import { HomePage } from "./Components/HomePage";
 import { useState } from "react";
+import { BrowserRouter as Router } from "react-router-dom"
 import { Workshop } from "./Components/Workshop.jsx";
 import { Contact } from "./Components/Contact.jsx";
 function App() {
@@ -21,6 +22,8 @@ function App() {
     setCurrentStep(4);
   };
   return (
+    <Router>
+
     <div className="App">
       {currentStep === 1 && (
         <HomePage
@@ -59,6 +62,7 @@ function App() {
         />
       )}
     </div>
+    </Router>
   );
 }
 
