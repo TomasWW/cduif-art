@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/cduif-art/static/css/main.ab96194a.css",
-    "main.js": "/cduif-art/static/js/main.b81cc7cc.js",
+    "main.css": "/cduif-art/static/css/main.fb1f27a4.css",
+    "main.js": "/cduif-art/static/js/main.5fada423.js",
     "static/js/787.fe855d9b.chunk.js": "/cduif-art/static/js/787.fe855d9b.chunk.js",
     "static/media/RavenRaven.jpg": "/cduif-art/static/media/RavenRaven.20c98c8ce147309cb5de.jpg",
     "static/media/RavenTree.jpg": "/cduif-art/static/media/RavenTree.16eac78e27a3fd480192.jpg",
@@ -14,12 +14,12 @@
     "static/media/Show1.jpg": "/cduif-art/static/media/Show1.a574c4b6744ad74073b5.jpg",
     "static/media/ShowRavYel.jpg": "/cduif-art/static/media/ShowRavYel.ca576b07e68107ff470e.jpg",
     "index.html": "/cduif-art/index.html",
-    "main.ab96194a.css.map": "/cduif-art/static/css/main.ab96194a.css.map",
-    "main.b81cc7cc.js.map": "/cduif-art/static/js/main.b81cc7cc.js.map",
+    "main.fb1f27a4.css.map": "/cduif-art/static/css/main.fb1f27a4.css.map",
+    "main.5fada423.js.map": "/cduif-art/static/js/main.5fada423.js.map",
     "787.fe855d9b.chunk.js.map": "/cduif-art/static/js/787.fe855d9b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab96194a.css",
-    "static/js/main.b81cc7cc.js"
+    "static/css/main.fb1f27a4.css",
+    "static/js/main.5fada423.js"
   ]
 }
