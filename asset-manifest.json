@@ -1,17 +1,25 @@
 {
   "files": {
-    "main.css": "/cduif-art/static/css/main.75e4246e.css",
-    "main.js": "/cduif-art/static/js/main.36f4e3ee.js",
+    "main.css": "/cduif-art/static/css/main.3258658a.css",
+    "main.js": "/cduif-art/static/js/main.c3e91d58.js",
     "static/js/787.fe855d9b.chunk.js": "/cduif-art/static/js/787.fe855d9b.chunk.js",
-    "static/media/IMG_20180419_165645310.jpg": "/cduif-art/static/media/IMG_20180419_165645310.c523ba72f9be50bd3e7d.jpg",
-    "static/media/Hugin.jpg": "/cduif-art/static/media/Hugin.ca576b07e68107ff470e.jpg",
+    "static/media/RavenRaven.jpg": "/cduif-art/static/media/RavenRaven.20c98c8ce147309cb5de.jpg",
+    "static/media/RavenTree.jpg": "/cduif-art/static/media/RavenTree.16eac78e27a3fd480192.jpg",
+    "static/media/Raven-Pink.jpg": "/cduif-art/static/media/Raven-Pink.0eec6b57749c38177952.jpg",
+    "static/media/Raven-Yellow.jpg": "/cduif-art/static/media/Raven-Yellow.c523ba72f9be50bd3e7d.jpg",
+    "static/media/Raven-Blue.jpg": "/cduif-art/static/media/Raven-Blue.4144bbb52084ed87472e.jpg",
+    "static/media/Rav.jpg": "/cduif-art/static/media/Rav.878b790bec93ed3fdd55.jpg",
+    "static/media/RavenPost.jpeg": "/cduif-art/static/media/RavenPost.e2a9dc0a7af1be0a388d.jpeg",
+    "static/media/RavenCrown.jpg": "/cduif-art/static/media/RavenCrown.edad2bc4b18704b6558b.jpg",
+    "static/media/Show1.jpg": "/cduif-art/static/media/Show1.a574c4b6744ad74073b5.jpg",
+    "static/media/ShowRavYel.jpg": "/cduif-art/static/media/ShowRavYel.ca576b07e68107ff470e.jpg",
     "index.html": "/cduif-art/index.html",
-    "main.75e4246e.css.map": "/cduif-art/static/css/main.75e4246e.css.map",
-    "main.36f4e3ee.js.map": "/cduif-art/static/js/main.36f4e3ee.js.map",
+    "main.3258658a.css.map": "/cduif-art/static/css/main.3258658a.css.map",
+    "main.c3e91d58.js.map": "/cduif-art/static/js/main.c3e91d58.js.map",
     "787.fe855d9b.chunk.js.map": "/cduif-art/static/js/787.fe855d9b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.75e4246e.css",
-    "static/js/main.36f4e3ee.js"
+    "static/css/main.3258658a.css",
+    "static/js/main.c3e91d58.js"
   ]
 }
